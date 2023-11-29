@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T10:45:27.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k2KF0eftJEUL6IlbQ8Yy" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:47:24.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yfwXd3S3H9QXImlyPzUU" version="22.1.4" type="github">
   <diagram name="Page-1" id="KNeb5x1jzEJ46q6CHf2o">
-    <mxGraphModel dx="923" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="2112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DXWB6FxUll0cylomkS6z-149" value="jet1 : Jeton" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="-436" width="110" height="80" as="geometry">
+          <mxGeometry x="1370" y="-400" width="110" height="80" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -104,7 +104,7 @@
           <mxGeometry y="52" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="DXWB6FxUll0cylomkS6z-152" value="jet2 : Jeton" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="-306" width="110" height="80" as="geometry">
+          <mxGeometry x="1370" y="-300" width="110" height="80" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DXWB6FxUll0cylomkS6z-183" value="C3 : Carte" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="170" width="110" height="104" as="geometry">
+          <mxGeometry x="1251" y="159" width="110" height="104" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -279,7 +279,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DXWB6FxUll0cylomkS6z-207" value="B2 : Besoin" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="120" width="140" height="182" as="geometry">
+          <mxGeometry x="1540" y="100" width="140" height="182" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
