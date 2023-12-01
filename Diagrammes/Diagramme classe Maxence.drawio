@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T14:00:13.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WNrmD_KCAYLyVzOQ8pCT" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T14:31:15.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SKKtNRjPqUScUORoFgVj" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="913" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -178,7 +178,7 @@
         </mxCell>
         <mxCell id="eFTHYfon2pCEt5b85kIS-5" value="Possède" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eFTHYfon2pCEt5b85kIS-4" vertex="1" connectable="0">
           <mxGeometry x="0.1124" y="2" relative="1" as="geometry">
-            <mxPoint x="-13" y="-7" as="offset" />
+            <mxPoint x="-9" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eFTHYfon2pCEt5b85kIS-6" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eFTHYfon2pCEt5b85kIS-4" vertex="1" connectable="0">
@@ -320,8 +320,8 @@
         <mxCell id="RLJxpa4eep_DDsF9Yo_l-12" value="3" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="RLJxpa4eep_DDsF9Yo_l-9" vertex="1">
           <mxGeometry y="92" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iikuvxPZKd5KJl4efWMq-0" value="Contrainte : La couleur d&#39;une carte ne peut pas être or" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="iikuvxPZKd5KJl4efWMq-0" value="Contrainte : La couleur d&#39;une carte ne peut pas être or" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1110" y="335" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
