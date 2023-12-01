@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T14:18:22.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1GpVW1L4k2FNWzuoYElY" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T14:18:56.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2SquW2pwZ743KfRTR_KG" version="22.1.5" type="github">
   <diagram name="Page-1" id="KNeb5x1jzEJ46q6CHf2o">
-    <mxGraphModel dx="223" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DXWB6FxUll0cylomkS6z-189" value="B1 : Besoin" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="-272" width="140" height="182" as="geometry">
+          <mxGeometry x="1581" y="-285" width="140" height="182" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -279,7 +279,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DXWB6FxUll0cylomkS6z-207" value="B2 : Besoin" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="140" width="140" height="182" as="geometry">
+          <mxGeometry x="1541" y="126" width="140" height="182" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qCP_0ka8L5L51W8G-nD8-1" value="B1 : Besoin" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="-70" width="140" height="182" as="geometry">
+          <mxGeometry x="1580" y="-81" width="140" height="182" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
