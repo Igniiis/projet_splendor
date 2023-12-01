@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T13:45:51.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zs6BAXkGNiuTRyhRVQ_r" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T13:46:01.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4-5VOA7CKU7lmYYX_7x9" version="22.1.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="875" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="zI1h7x5sEJhRS2WGcgBx-2" value="Hôte" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zI1h7x5sEJhRS2WGcgBx-3" value="Voir son profil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zI1h7x5sEJhRS2WGcgBx-3" value="Profil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zI1h7x5sEJhRS2WGcgBx-4" value="Créer partie" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
