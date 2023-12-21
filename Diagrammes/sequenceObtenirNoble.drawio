@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T22:53:32.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="30qaq7iAEOTH28aY2bcC" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T17:24:40.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s9D5OIw-IXc_DgWWYKfY" version="22.1.11" type="github">
   <diagram name="Page-1" id="Pr8Zw__yHwYvCegwbP1Q">
-    <mxGraphModel dx="1290" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MMK27oadImu6UxqrAImb-1" value="début tour joueur 2" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-1" value="début tour joueur 2" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="10" width="80" relative="1" as="geometry">
             <mxPoint x="60" y="128" as="sourcePoint" />
             <mxPoint x="169.5" y="128" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="160" y="54" width="20" height="656" as="geometry" />
+        <mxCell id="MMK27oadImu6UxqrAImb-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="160" y="54" width="20" height="486" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-82" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" vertex="1" parent="MMK27oadImu6UxqrAImb-2">
+        <mxCell id="MMK27oadImu6UxqrAImb-82" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" parent="MMK27oadImu6UxqrAImb-2" vertex="1">
           <mxGeometry x="5" y="170" width="10" height="266" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-3" value="Joueur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-3" value="Joueur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="14" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="540" y="54" width="20" height="656" as="geometry" />
+        <mxCell id="MMK27oadImu6UxqrAImb-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="540" y="54" width="20" height="496" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MMK27oadImu6UxqrAImb-4">
+        <mxCell id="MMK27oadImu6UxqrAImb-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="MMK27oadImu6UxqrAImb-4" vertex="1">
           <mxGeometry x="10" y="226" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MMK27oadImu6UxqrAImb-4">
+        <mxCell id="MMK27oadImu6UxqrAImb-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="MMK27oadImu6UxqrAImb-4" vertex="1">
           <mxGeometry x="10" y="338" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MMK27oadImu6UxqrAImb-4">
+        <mxCell id="MMK27oadImu6UxqrAImb-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="MMK27oadImu6UxqrAImb-4" vertex="1">
           <mxGeometry x="10" y="283" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="MMK27oadImu6UxqrAImb-4" source="MMK27oadImu6UxqrAImb-74" target="MMK27oadImu6UxqrAImb-73">
+        <mxCell id="MMK27oadImu6UxqrAImb-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="MMK27oadImu6UxqrAImb-4" source="MMK27oadImu6UxqrAImb-74" target="MMK27oadImu6UxqrAImb-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="308" />
@@ -41,55 +41,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MMK27oadImu6UxqrAImb-4">
+        <mxCell id="MMK27oadImu6UxqrAImb-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="MMK27oadImu6UxqrAImb-4" vertex="1">
           <mxGeometry x="10" y="396" width="10" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-7" value="Système" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-7" value="Système" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="14" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="532.5" y="54" width="35" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="140" as="sourcePoint" />
             <mxPoint x="550" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-12" value="Sélectionne carte à acheter()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-12" value="Sélectionne carte à acheter()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="268" y="110" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-13" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-13" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="193.31" as="sourcePoint" />
             <mxPoint x="550" y="193.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-14" value="Possibilité d&#39;acheter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-14" value="Possibilité d&#39;acheter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="293" y="164" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="225" as="sourcePoint" />
             <mxPoint x="550" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-16" value="Confirme achat()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-16" value="Confirme achat()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="303.5" y="200" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-19" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-19" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="410" width="398.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-24" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-24" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="490" as="sourcePoint" />
             <mxPoint x="550" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-59" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-59" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="550" y="140" width="10" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="MMK27oadImu6UxqrAImb-59" target="MMK27oadImu6UxqrAImb-59">
+        <mxCell id="MMK27oadImu6UxqrAImb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="1" source="MMK27oadImu6UxqrAImb-59" target="MMK27oadImu6UxqrAImb-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="145" />
@@ -97,13 +97,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-61" value="Vérifie que le &lt;br&gt;joueur possède &lt;br&gt;assez de jetons()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-61" value="Vérifie que le &lt;br&gt;joueur possède &lt;br&gt;assez de jetons()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="140" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-69" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-69" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="550" y="225" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="MMK27oadImu6UxqrAImb-69" target="MMK27oadImu6UxqrAImb-72">
+        <mxCell id="MMK27oadImu6UxqrAImb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="MMK27oadImu6UxqrAImb-69" target="MMK27oadImu6UxqrAImb-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="250" />
@@ -112,10 +112,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-71" value="Ajoute carte à la&amp;nbsp;main &lt;br&gt;du joueur et incrémente&amp;nbsp;&lt;br&gt;points prestige()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-71" value="Ajoute carte à la&amp;nbsp;main &lt;br&gt;du joueur et incrémente&amp;nbsp;&lt;br&gt;points prestige()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="300" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="310" />
@@ -126,16 +126,16 @@
             <mxPoint x="560" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-77" value="Vérifie points &lt;br&gt;de prestige()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-77" value="Vérifie points &lt;br&gt;de prestige()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="585" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-78" value="Ajoute noble&amp;nbsp;&lt;br&gt;au joueur()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-78" value="Ajoute noble&amp;nbsp;&lt;br&gt;au joueur()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="585" y="425" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-79" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[&lt;b style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;∃ n&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;oble / joueur.&lt;/font&gt;&lt;/span&gt;pointsDePrestige = noble.pointsNoble]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-79" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[&lt;b style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;∃ n&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;oble / joueur.&lt;/font&gt;&lt;/span&gt;pointsDePrestige = noble.pointsNoble]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="430" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="430" />
@@ -146,7 +146,7 @@
             <mxPoint x="560" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMK27oadImu6UxqrAImb-81" value="Remet jetons correspondant&lt;br&gt;au prix de la carte dans&lt;br&gt;la pioche()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MMK27oadImu6UxqrAImb-81" value="Remet jetons correspondant&lt;br&gt;au prix de la carte dans&lt;br&gt;la pioche()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="240" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
