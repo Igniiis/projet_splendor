@@ -1,9 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T18:11:52.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="DR4fyZX8_xd4J20kaIf9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T18:26:11.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="c1niF7YfLfsvD1juEYoS" version="22.1.11" type="github">
   <diagram name="Page-1" id="OJ9ekQygMFs_oNQRjHTH">
-    <mxGraphModel>
+    <mxGraphModel dx="806" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9k0t02RoVr2uYBRWPtpX-1" parent="1" target="9k0t02RoVr2uYBRWPtpX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-3" value="Remplie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-4" value="Révéler 4 cartes ()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="225" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-5" value="3 cartes révélées" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-6" value="2 cartes révélées" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-7" value="1 cartes révélées" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9k0t02RoVr2uYBRWPtpX-8" target="9k0t02RoVr2uYBRWPtpX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-8" value="0 cartes révélée" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9k0t02RoVr2uYBRWPtpX-3" target="9k0t02RoVr2uYBRWPtpX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-10" value="Joueur achète carte() / pioche.isEmpty&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 16px; font-variant-ligatures: none; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW396026 BCX8&quot;&gt;()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="225" as="sourcePoint" />
+            <mxPoint x="260" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-14" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Joueur achète carte() / pioche.&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW396026 BCX8&quot; style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-ligatures: none; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;notEmpty()&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9k0t02RoVr2uYBRWPtpX-5" target="9k0t02RoVr2uYBRWPtpX-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-16" value="Joueur achète carte()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="308" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9k0t02RoVr2uYBRWPtpX-6" target="9k0t02RoVr2uYBRWPtpX-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="340" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-18" value="Joueur achète carte()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9k0t02RoVr2uYBRWPtpX-7" target="9k0t02RoVr2uYBRWPtpX-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-20" value="Joueur achète carte()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="435" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0t02RoVr2uYBRWPtpX-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="495" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
